@@ -1,0 +1,11 @@
+{
+  "name": "Notícias Locais Brasil",
+  "description": "App de notícias por cidade e estado com conteúdo pronto para redes sociais.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI News Generation",
+    "Social Media Ready Content"
+  ]
+}
